@@ -4,12 +4,12 @@ In the following we can do text mining and sentiment analysis in python using Sc
 
 ## Main Concepts:
 1. Lexical level
-2. <ul>
+<ul>
   <li>Character (character n-grams and sequences)</li>
-— Words (Tokenization, Lower casing, Stop-words, stemming, lemmatization, Part of Speech)
-— Phrases
-— Taxonomies
-  </ul>
+  <li>Words (Tokenization, Lower casing, Stop-words, stemming, lemmatization, Part of Speech)</li>
+  <li>Phrases</li>
+  <li>Taxonomies</li>
+</ul>
 
 
 2. Syntactic level
