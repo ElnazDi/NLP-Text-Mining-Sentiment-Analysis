@@ -1,4 +1,4 @@
-## NLP-Text-Mining
+## Data Mining (NLP: Natural Language Processing) - Setiment Analysis
 
 In the following we can do text mining and sentiment analysis in python using Scikit-Learn to train the model with Random forest, making ba of the words...
 
