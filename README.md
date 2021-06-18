@@ -28,8 +28,8 @@ In the following we can do text mining and sentiment analysis in python using Sc
   <li>Ontologies</li>
 </ul>  
 
-## Unstructured Data - Text Mining (NLP)
-## Text Analysis (Sentiment Analysis)
+### Unstructured Data - Text Mining (NLP)
+### Text Analysis (Sentiment Analysis)
 
 
 
