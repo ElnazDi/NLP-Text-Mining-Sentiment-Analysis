@@ -13,16 +13,20 @@ In the following we can do text mining and sentiment analysis in python using Sc
 
 
 2. Syntactic level
-— Vector-space model (Bag of the Words | TF-IDF)
-— Language Models
-— Full-parsing
-— Cross-modality
+<ul>
+  <li>Vector-space model (Bag of the Words | TF-IDF)</li>
+  <li>Language Models</li>
+  <li>Full-parsing</li>
+  <li>Cross-modality</li>
+</ul>
 
 
 3. Semantic level
-— Collaborative tagging
-— Templates
-— Ontologies
+<ul>
+  <li>Collaborative tagging</li>
+  <li>Templates</li>
+  <li>Ontologies</li>
+</ul>  
 
 ## Unstructured Data - Text Mining (NLP)
 ## Text Analysis (Sentiment Analysis)
