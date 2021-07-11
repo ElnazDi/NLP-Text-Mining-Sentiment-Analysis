@@ -30,6 +30,13 @@ In the following we can do text mining and sentiment analysis in python using Sc
 
 ### Unstructured Data - Text Mining (NLP)
 ### Text Analysis (Sentiment Analysis)
+Library used: 
+1. Pytorch
+2. Transformers (BERT => Pretrained Model + Pretokenized)
+3. Pandas
+4. Numpy
+5. Beautiful Soup
+6. Request
 
 
 
